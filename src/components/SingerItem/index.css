@@ -1,0 +1,36 @@
+.list-item-container {
+  list-style-type: none;
+  display: flex;
+  margin-bottom: 15px;
+  justify-content: space-around;
+}
+.duration-container {
+  display: flex;
+  align-items: center;
+}
+.first {
+  display: flex;
+}
+.img {
+  width: 150px;
+  height: 100px;
+}
+.delete-button {
+  background-color: transparent;
+  border: 0;
+}
+.name-container {
+  margin-left: 20px;
+}
+.name {
+  color: #fff;
+  font-size: 14px;
+}
+.genre {
+  color: #3b82f6;
+  font-size: 12px;
+}
+.duration {
+  color: #fff;
+  font-size: 14px;
+}
